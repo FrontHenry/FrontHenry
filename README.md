@@ -1,5 +1,9 @@
 ## **Oi, meu nome é Henry**
-### *Desenvolvedor*
+### *Desenvolvedor de FrontEnd*
+Atualmente trabalho como frentista, mas nunca deixando de estudar para alcançar meu sonho.
+
+### Algumas da linguagens que possuo familiaridade
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML-logo" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   |
@@ -11,8 +15,8 @@
  ### Estudando
 
 <div>
-  <img align="center" alt="Js-logo" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-|
+  <img align="center" alt="Js-logo" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  |
   <img align="center" alt="java-logo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  </div>
   
