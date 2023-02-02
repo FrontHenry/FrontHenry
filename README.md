@@ -1,5 +1,5 @@
 ## **Oi, meu nome é Henry**
-### *Desenvolvedor de FrontEnd*
+### *Desenvolvedor Fullstack jr*
 Atualmente trabalho como frentista, mas nunca deixando de estudar para alcançar meu sonho.
 
 ### Algumas da linguagens que possuo familiaridade
