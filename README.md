@@ -1,6 +1,6 @@
 ## **Oi, meu nome é Henry**
 ### *Desenvolvedor Fullstack jr*
-Atualmente trabalho como frentista, mas nunca deixando de estudar para alcançar meu sonho.
+Atualmente trabalho como Auxiliar de Cobrança, mas nunca deixando de estudar para alcançar meu sonho.
 
 ### Algumas da linguagens que possuo familiaridade
 
